@@ -16,9 +16,7 @@ I am a Software Engineer expanding into heavy backend and systems development, s
 * **Infrastructure & Tools:** Linux (Pop!_OS), Git, System Testing
 
 ## Top Languages
-<a href="https://github.com/Yahya-Idris-A">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahya-Idris-A&layout=compact&theme=transparent&hide_border=true&title_color=black&text_color=black" alt="Top Languages" />
-</a>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yahya-Idris-A&layout=compact&hide_border=true)](https://github.com/Yahya-Idris-A)
 
 ## Let's Connect
 * **LinkedIn:** -

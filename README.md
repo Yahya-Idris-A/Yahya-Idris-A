@@ -15,8 +15,10 @@ I am a Software Engineer expanding into heavy backend and systems development, s
 * **Languages & Technologies:** -
 * **Infrastructure & Tools:** Linux (Pop!_OS), Git, System Testing
 
-## Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yahya-Idris-A&layout=compact&hide_border=true)](https://github.com/Yahya-Idris-A)
+## Technical Arsenal
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,postgres,react,nextjs,linux,git" alt="Core Technologies" />
+</a>
 
 ## Let's Connect
 * **LinkedIn:** -

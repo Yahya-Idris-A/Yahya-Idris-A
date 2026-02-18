@@ -19,6 +19,12 @@ I am a Software Engineer expanding into heavy backend and systems development, s
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,postgres,react,nextjs,linux,git" alt="Core Technologies" />
 </a>
+<p align="center">
+<a href="https://github.com/Yahya-Idris-A">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yahya-Idris-A&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yahya-Idris-A&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ## Let's Connect
 * **LinkedIn:** -
